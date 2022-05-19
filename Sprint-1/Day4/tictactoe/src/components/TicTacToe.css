@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/43/f9/95/43f99584c0a584d4292830b060efd1fb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+table td {
+    border: solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    margin: auto;
+}
+
+.btn {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(26, 221, 110);
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+}
+
+.winner {
+    color: rgb(2, 2, 56);
+}
+
+.line {
+    line-height: 10px;
+}
+
+.line>h3 {
+    color: rgb(238, 36, 13)
+}
+
+.line>h2 {
+    color: rgb(2, 2, 37);
+}
