@@ -1,20 +1,6 @@
-import logo from "./logo.svg";
-import "./App.css";
+
+import "./components/navbar.css";
 import Navbar from "./components/Navbar";
-import Contact from "./components/Contact";
-
-function App() {
-  return (
-    <>
-      <div className="App">
-        <Navbar />
-      </div>
-
-      <div>
-        <MobileOs />
-      </div>
-    </>
-  );
+export default function App() {
+  return <Navbar />;
 }
-
-export default App;
