@@ -1,0 +1,49 @@
+.todo {
+    display: flex;
+    margin-left: 35%;
+    gap: 10%;
+
+}
+
+.todo>div {
+    width: 10%;
+    margin-top: 3%;
+    text-align: left;
+
+}
+
+.todo>button {
+    margin-top: 3%;
+    margin-left: 8%;
+    background-color: #10a310;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.data {
+
+    display: flex;
+
+}
+
+.btn>button {
+    background-color: #10a310;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.up {
+    background-color: #10a310;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
