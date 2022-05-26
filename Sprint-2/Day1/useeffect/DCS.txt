@@ -1,0 +1,23 @@
+
+createing-react-app using npm:  npx create-react-app project-name 
+
+
+
+
+creating vite: npm create vite
+                project name
+                react
+                react
+                cd project-name
+                npm i
+                npm run dev / npm start in npx reacte
+
+
+
+
+npm i -g json-server
+
+
+json-server --watch db.json --port 8080
+
+

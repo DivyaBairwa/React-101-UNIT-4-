@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "value": "Santanu",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "Divya",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "value": "Ram",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "value": "Atul",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}

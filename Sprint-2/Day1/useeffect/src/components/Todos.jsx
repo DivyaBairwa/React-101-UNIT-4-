@@ -33,7 +33,7 @@ export const Todos=()=>{
     //get method...........
     const getData=async ()=>{
         try {
-            let res = await fetch(`http://localhost:3000/posts?_page=${page}`)
+            let res = await fetch(`http://localhost:8080/todos?_page=${page}`)
             let data= await res.json()
             
             console.log("chaitu",data)
