@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    color:black;
+    align-items: center;
+    justify-content: space-around;
+}
+/* .cont {
+height:70px;
+width:100%;
+margin-left: -20px;
+border:2px solid rgb(192, 190, 190);
+
+} */
+
+.second {
+    display: flex;
+}
+
+p {
+    margin-right: 20px;
+    color:black;
+}
+
+.btn {
+    height:40px;
+    width:80px;
+    margin-right: 20px;
+    border:2px solid #ee6fae;
+    color: white;
+    border-radius: 10px;
+    font-style:bold;
+    font-weight: 1000;
+    background-color:#ee6fae;
+}

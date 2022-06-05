@@ -1,0 +1,14 @@
+
+.items > *:hover {
+  background-color: #07cbf8;
+  cursor: pointer;
+  color:white;
+}
+.items > * {
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: 10px;
+}
+p{
+  font-size:15px;
+}
