@@ -1,7 +1,10 @@
-import React from "react";
+import React,{useEffect} from "react";
+import axios from 'axios'
+const Product = () => {
 
-const Products = () => {
-  return <div>{/* Code here */}</div>;
+  return <div>
+    <p>Divya Bairwa</p>
+  </div>;
 };
 
-export default Products;
+export default Product;
