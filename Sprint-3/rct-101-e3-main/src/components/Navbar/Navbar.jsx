@@ -23,7 +23,7 @@ const Navbar = () => {
     }
   return (
     <div
-     data-cy="navbar" style={{gap:"20%",
+    data-cy="navbar" style={{gap:"20%",
     marginTop:"20px",
     display:"flex",
     paddding:"10px" ,

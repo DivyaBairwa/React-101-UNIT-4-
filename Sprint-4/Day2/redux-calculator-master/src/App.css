@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  width: 40%;
+  margin: auto;
+  grid-gap: 20px;
+}
+button {
+  width: 200px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+input {
+  height: 20px;
+  width: 200px;
+  margin: 20px;
+}
